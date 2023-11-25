@@ -1,0 +1,90 @@
+Cyan /
+Magenta /
+Yellow / 
+Aqua /
+Coral /
+Peach /
+Teal / 
+Olive /
+Maroon / 
+Turquoise / 
+Lavender / 
+Gold /
+Salmon /
+Indigo /
+Beige /
+Rose /
+Mint /
+Amber /
+Vermilion /
+Tan 
+Slate
+Ivory
+Apricot
+Chartreuse
+Periwinkle
+Mahogany
+Orchid
+Mustard
+Jade
+Saffron
+Ruby
+Navy
+Cocoa
+Coral
+Marigold
+Mauve
+Brass
+Brick
+Caramel
+Charcoal
+Citrine
+Cobalt
+Coffee
+Crimson
+Ebony
+Emerald
+Fuchsia
+Ginger
+Grape
+Hazel
+Honey
+Iris
+Jade
+Khaki
+Lemon
+Lilac
+Mandarin
+Olive
+Onyx
+Opal
+Papaya
+Peacock
+Pecan
+Pine
+Pink
+Platinum
+Pumpkin
+Raspberry
+Rust
+Sapphire
+Scarlet
+Sepia
+Sienna
+Sky
+Topaz
+Umber
+Viridian
+Wheat
+Xanadu
+Yarrow
+Zaffre
+Zinc
+Amethyst
+Beryl
+Brass
+Burgundy
+Citron
+Cornflower
+Dandelion
+Denim
