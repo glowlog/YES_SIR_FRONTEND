@@ -17,17 +17,17 @@ Rose /
 Mint /
 Amber /
 Vermilion /
-Tan 
-Slate
-Ivory
-Apricot
-Chartreuse
-Periwinkle
-Mahogany
-Orchid
-Mustard
-Jade
-Saffron
+Tan /
+Slate / 
+Ivory /
+Apricot /
+Chartreuse /
+Periwinkle /
+Mahogany / 
+Orchid /
+Mustard / 
+Jade /
+Saffron /
 Ruby
 Navy
 Cocoa
